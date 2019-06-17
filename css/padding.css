@@ -1,0 +1,56 @@
+/*  -------   Pads & Gaps   ------- */
+
+.no-pad { padding:0%;}
+
+.pad-all-s {padding: 3%;}
+.pad-all {padding: 6%;}
+.pad-all-l {padding: 9%;}
+.pad-all-xl {padding: 12%;}
+
+.pad-top-s {padding-top: 3%;}
+.pad-top {padding-top: 6%;}
+.pad-top-l {padding-top: 9%;}
+.pad-top-xl {padding-top: 12%;}
+
+.pad-bottom-s {padding-bottom: 3%;}
+.pad-bottom {padding-bottom: 6%;}
+.pad-bottom-l {padding-bottom: 9%;}
+.pad-bottom-xl {padding-bottom: 12%;}
+
+.pad-left-s {padding-left: 3%;}
+.pad-left {padding-left: 6%;}
+.pad-left-l {padding-left: 9%;}
+.pad-left-xl {padding-left: 12%;}
+
+.pad-right-s {padding-right: 3%;}
+.pad-right {padding-right: 6%;}
+.pad-right-l {padding-right: 9%;}
+.pad-right-xl {padding-right: 12%;}
+
+
+.no-gap { margin:0%;}
+
+.gap-all-s {margin: 3%;}
+.gap-all {margin: 6%;}
+.gap-all-l {margin: 9%;}
+.gap-all-xl {margin: 12%;}
+
+.gap-top-s {margin-top: 3%;}
+.gap-top {margin-top: 6%;}
+.gap-top-l {margin-top: 9%;}
+.gap-top-xl {margin-top: 12%;}
+
+.gap-bottom-s {margin-bottom: 3%;}
+.gap-bottom {margin-bottom: 6%;}
+.gap-bottom-l {margin-bottom: 9%;}
+.gap-bottom-xl {margin-bottom: 12%;}
+
+.gap-left-s {margin-left: 3%;}
+.gap-left {margin-left: 6%;}
+.gap-left-l {margin-left: 9%;}
+.gap-left-xl {margin-left: 12%;}
+
+.gap-right-s {margin-right: 3%;}
+.gap-right {margin-right: 6%;}
+.gap-right-l {margin-right: 9%;}
+.gap-right-xl {margin-right: 12%;}

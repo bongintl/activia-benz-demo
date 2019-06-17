@@ -1,0 +1,72 @@
+@font-face{
+    font-family: Aileron;
+    src: url(Aileron-Regular.otf);
+}
+
+@font-face{
+    font-family: Aileron;
+    font-style: italic;
+    src: url(Aileron-RegularItalic.otf);
+}
+
+@font-face{
+    font-family: Aileron;
+    font-weight: bold;
+    src: url(Aileron-Bold.otf);
+}
+
+@font-face{
+    font-family: Aileron;
+    font-weight: bold;
+    font-style: italic;
+    src: url(Aileron-BoldItalic.otf);
+}
+
+@font-face{
+    font-family: Aileron;
+    font-weight: 900;
+    src: url(Aileron-Black.otf);
+}
+
+@font-face{
+    font-family: Aileron;
+    font-weight: 900;
+    font-style: italic;
+    src: url(Aileron-BlackItalic.otf);
+}
+
+.aileron, .aileron-regular{
+    font-family: Aileron;
+    font-weight: normal;
+    font-style: normal;
+}
+
+.aileron-italic, .aileron-regular-italic{
+    font-family: Aileron;
+    font-weight: normal;
+    font-style: italic;
+}
+
+.aileron-bold{
+    font-family: Aileron;
+    font-weight: bold;
+    font-style: normal;
+}
+
+.aileron-bold-italic{
+    font-family: Aileron;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.aileron-black{
+    font-family: Aileron;
+    font-weight: 900;
+    font-style: normal;
+}
+
+.aileron-black-italic{
+    font-family: Aileron;
+    font-weight: 900;
+    font-style: italic;
+}

@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+    font-family: Aileron, sans-serif;
+}
+
+#menu{
+    position: fixed;
+    top: 30px;
+    left: 50px;
+}
+
+.bg-black{
+    background: black;
+}
+
+.bg-red, .tracks section:nth-child(4n){
+    background: red;
+}
+
+.bg-yellow, .tracks section:nth-child(4n+1){
+    background: yellow;
+}
+
+.bg-green, .tracks section:nth-child(4n+2){
+    background: #0f0;
+}
+
+.bg-cyan, .tracks section:nth-child(4n+3){
+    background: #0ff;
+}
+
+
+
+
+.tracks section{
+    height:60px;
+    width:100%;
+    text-align:right;
+}
+
+
+
+
+/*———————————————————— Structure ————————————————————*/
+
+.half {
+    width:50%;
+    display:inline-block;
+}
+
+.columns img {
+    min-width:100%;
+}
+
+
+

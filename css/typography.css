@@ -1,0 +1,27 @@
+.text-2{
+    font-size: 2rem;
+}
+
+.text-5{
+    font-size: 5rem;
+    line-height: 4rem;
+}
+.text-13{
+    font-size: 13rem;
+}
+
+
+
+
+
+/* ————————————— Alternating ————————————— */
+
+.alternating span:nth-child(odd) {
+    font-family: TimesCondensed;
+    font-weight: bold;
+}
+
+.alternating span:nth-child(even) {
+    font-family: Aileron;
+    font-weight: 900;
+}
